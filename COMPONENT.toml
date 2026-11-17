@@ -3,7 +3,7 @@ name = "SigmaOS-session-isolation"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "session-isolation component"
+description = "session isolation"
 upstream = []
 
 [contract]
